@@ -33,7 +33,7 @@ To install and run the project, follow the next steps:
 **IOrderBookData.ts**:> A group of types and an interface. **IOrderBookData** represents the data obtained from the WebSocket call.
 
 ### App.tsx file
-Defines the <main>...</main> structure and uses **OrderBook** component. Displays an error message if the user has lost internet access by obtaining that information from the **useWebsocket** Context.
+Defines the `<main>...</main>` structure and uses **OrderBook** component. Displays an error message if the user has lost internet access by obtaining that information from the **useWebsocket** Context.
 
 ### main.tsx
 Encapsulates the App inside a **WebsocketProvider** giving access to the **WebsocketContext**.
