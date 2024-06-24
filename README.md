@@ -1,7 +1,8 @@
 # RabbitX Take Home
 
 This is the repo for the RabbitX take-home exercise.
-A working version is live here: https://miguel-rabbitx.netlify.app/
+
+**A working version is live here: https://miguel-rabbitx.netlify.app/**
 
 To install and run the project, follow the next steps:
 - Install dependencies by running: **npm install**
